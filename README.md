@@ -1,5 +1,7 @@
 # TypeScript 2 + Express + Node.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lupuscaoticus/typescript-express-starter.svg)](https://greenkeeper.io/)
+
 This is a repository to go with my article on creating an Express web application using TypeScript 2.
 
 ## Install
